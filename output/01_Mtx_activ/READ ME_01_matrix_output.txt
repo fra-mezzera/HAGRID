@@ -1,0 +1,10 @@
+MODULE 01 FILE DESCRIPTION - MARKOV-CHAIN TRANSITION MATRIX for activity profile definition
+
+
+	- In this folder the transition matrices (derived from I-order Markov-Chain method) used to create synthetic individual activity profiles are included
+
+	- The matrices are differentiated by individual class, to capture the behavioral habits of each individual (e.g., single person, head of household in a family with Children, etc), by using the same classification provided in the original Time-Use-Survey dataset provided by Italian National Institute of Statistics (ISTAT)
+
+	- The matrices are differentiated by geographical area (e.g. N-O=North-West, Sud=South…) or grouped in closer geographical areas (e.g.N-O_N-E_Cen = North-West + North-East + Centre) when there are insufficient data for a specific individual class in a specific area to create robust matrices. 
+
+	- an example of matrix is included in the subfolder "Cen", for the household type (0,0 = single-person), while for the other individual classes they have to be calculated through MODULE 01. (due to space upload limits the remaining cases were cancelled in the current version and have to be reconstructed running Module 01)

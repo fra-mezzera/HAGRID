@@ -1,0 +1,14 @@
+MODULE 02 FILE DESCRIPTION - CONVENTIONAL LOAD CONSUMPTION PROFILES PICTURES
+
+
+	- In this folder an example of the potential pictures available with MODULE 02 are presented. The Module reconstructs the electricity consumption derived by appliance and lighting uses related to the household activity profiles.
+
+It allows to print the following information:
+
+	- Single appliance electricity consumption (in appliance_profiles folder)
+
+	- stacked electricity consumption within the considered local energy system, grouped per appliance technology
+
+	- stacked consumption allocated to each single household (individually or grouped by class (e.g., households of "couple with Children" type etc)
+
+	- a distribution of average yearly consumption related to different appliances (BETA VERSION)

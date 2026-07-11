@@ -1,0 +1,10 @@
+MODULE 01 FILE DESCRIPTION - PICTURE OF INDIVIDUAL ACTIVITY PROFILES
+
+
+	- In the present folder an example of resulting daily profiles are presented. The profiles represent the activity occurring during a day by a selected individual class (e.g., single-person)
+
+	- The profiles are distinguished by day (i.e., workday, Saturday, Sunday)
+	- by individual class (e.g., single person, head of household in a family with Children, etc), by using the same classification provided in the original Time-Use-Survey dataset provided by Italian National Institute of Statistics (ISTAT)
+
+	- considered trimester/season (e.g., Nov-Dec-Jan)  by using the same classification provided in the original Time-Use-Survey dataset provided by Italian National Institute of Statistics (ISTAT)
+

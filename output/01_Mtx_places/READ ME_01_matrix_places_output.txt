@@ -1,0 +1,8 @@
+MODULE 01 FILE DESCRIPTION - MARKOV-CHAIN TRANSITION MATRIX for location profile definition
+
+
+	- In this folder the transition matrices (derived from I-order Markov-Chain method) used to create synthetic individual profiles of the occupied place are included
+
+	- The matrices are differentiated by individual class, to capture the behavioral habits in the occupied places of each individual (e.g., single person, head of household in a family with Children, etc), by using the same classification provided in the original Time-Use-Survey dataset provided by Italian National Institute of Statistics (ISTAT)
+
+	- The matrices are differentiated by geographical area (e.g. N-O=North-West, Sud=South…) or grouped in closer geographical areas (e.g.N-O_N-E_Cen = North-West + North-East + Centre) when there are insufficient data for a specific individual class in a specific area to create robust matrices. 
