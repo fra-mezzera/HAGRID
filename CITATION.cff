@@ -1,22 +1,32 @@
-cff-version: 1.2.0
-title: "HAGRID: Household Activity-based Grid-aware Residential Integrated Demand model"
-message: "If you use this software, please cite this software release. The related scientific article is currently under submission and full citation details will be added once available."
-type: software
-authors:
 
-* family-names: Mezzera
-  given-names: Francesco
-  affiliation: "Politecnico di Milano"
-  version: 0.0.1
-  date-released: 2026-07-11
-  repository-code: "https://github.com/fra-mezzera/HAGRID"
-  license: MIT
-  keywords:
-* residential local energy systems
-* residential flexibility
-* electric storage water heaters
-* activity-based demand reconstruction
-* operation optimization
-* grid-aware modelling
-* oemof.solph
-  abstract: "HAGRID is a notebook-based Python tool for modelling residential local energy systems. It combines activity-based demand reconstruction, household-level electricity demand profiling, additional electrified loads, and local energy system operation optimization with simplified low-voltage grid-aware constraints."
+cff-version: 1.2.0
+
+date-released: "2026-10-12"
+
+title: "HAGRID: Household Activity-based Grid-aware Residential Integrated Demand model"
+
+message: "If you use HAGRID in your research, please cite this software release. Details of related scientific publications will be added when available."
+
+type: software
+
+authors:
+  - family-names: Mezzera
+    given-names: Francesco
+    affiliation: "Politecnico di Milano"
+
+version: "0.1.0"
+
+repository-code: "https://github.com/fra-mezzera/HAGRID"
+
+license: MIT
+
+keywords:
+  - residential local energy systems
+  - residential energy flexibility
+  - electric storage water heaters
+  - activity-based demand reconstruction
+  - operational optimization
+  - grid-aware modelling
+  - oemof.solph
+
+abstract: "HAGRID is a notebook-based Python framework for modelling residential local energy systems. It combines behaviour-driven electricity-demand reconstruction from time-use information, household-level electricity profiling, additional electrified loads, and local energy system operational optimization with simplified low-voltage network constraints."
